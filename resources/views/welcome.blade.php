@@ -5,7 +5,7 @@
   <!-- Main jumbotron for a primary marketing message or call to action -->
   <div class="jumbotron">
     <div class="container">
-      <h1 class="display-3">{{$a}}</h1>
+      <h1 class="display-3">kk</h1>
       <p>{{$b}}</p>
       <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
     </div>
